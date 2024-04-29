@@ -1,7 +1,5 @@
 # MazeRunner
 
-# Maze Runner
-
 ## Project Description
 
 Maze Runner is an exciting first-person maze game designed to run on the command line interface. Get ready to navigate through challenging mazes, test your agility, and find your way out to victory!
